@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cff3c13-0548-4846-bca0-6f21d4936dc6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python_Basis$04_return.coverage" NAME="04_return关键字 Coverage Results" MODIFIED="1548577395968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_循环" />
+    <SUITE FILE_PATH="coverage/Python_Basis$01_tcp_client__.coverage" NAME="01_tcp_client-多线程-聊天室 Coverage Results" MODIFIED="1550631164015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17_案例：聊天室" />
+    <SUITE FILE_PATH="coverage/Python_Basis$12_.coverage" NAME="12-查询案例 Coverage Results" MODIFIED="1551169349901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/25_mysql数据库" />
+    <SUITE FILE_PATH="coverage/Python_Basis$02_web.coverage" NAME="02_使用多进程完成web服务器 Coverage Results" MODIFIED="1551265291714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/19_web服务器" />
+    <SUITE FILE_PATH="coverage/Python_Basis$02_udp.coverage" NAME="02_udp发送任意数据 Coverage Results" MODIFIED="1549961057698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_网络编程" />
+    <SUITE FILE_PATH="coverage/Python_Basis$08_.coverage" NAME="08_类装饰器装饰函数 Coverage Results" MODIFIED="1551424051107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/29_装饰器" />
+    <SUITE FILE_PATH="coverage/Python_Basis$09_yield.coverage" NAME="09_使用yield完成多任务 Coverage Results" MODIFIED="1550214863111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_多任务-协程" />
+    <SUITE FILE_PATH="coverage/Python_Basis$04_.coverage" NAME="04_对不定长参数，没有返回值的函数装饰 Coverage Results" MODIFIED="1551409535515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/29_装饰器" />
+    <SUITE FILE_PATH="coverage/Python_Basis$04_web.coverage" NAME="04_使用协程完成web服务器 Coverage Results" MODIFIED="1550490989160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/19_web服务器" />
+    <SUITE FILE_PATH="coverage/Python_Basis$11_pythonmysql.coverage" NAME="11-python交互mysql Coverage Results" MODIFIED="1551167964023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/25_mysql数据库" />
+    <SUITE FILE_PATH="coverage/Python_Basis$01_process.coverage" NAME="01_使用process完成多进程 Coverage Results" MODIFIED="1550127485320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_多任务—进程" />
+    <SUITE FILE_PATH="coverage/Python_Basis$03__2.coverage" NAME="03_可迭代对象-2 Coverage Results" MODIFIED="1550210463333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_多任务-协程" />
+    <SUITE FILE_PATH="coverage/Python_Basis$client.coverage" NAME="client Coverage Results" MODIFIED="1550234920226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17_案例：聊天室" />
+    <SUITE FILE_PATH="coverage/Python_Basis$03_property.coverage" NAME="03_property应用 Coverage Results" MODIFIED="1550975005762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/23_property属性" />
+    <SUITE FILE_PATH="coverage/Python_Basis$08__server.coverage" NAME="08_案例：文件下载_server Coverage Results" MODIFIED="1550108343823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_网络编程" />
+    <SUITE FILE_PATH="coverage/Python_Basis$07_send.coverage" NAME="07_使用生成器send Coverage Results" MODIFIED="1550213614914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_多任务-协程" />
+    <SUITE FILE_PATH="coverage/Python_Basis$01_log.coverage" NAME="01_log定义 Coverage Results" MODIFIED="1551509886683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30_log日志功能" />
+    <SUITE FILE_PATH="coverage/Python_Basis$10_greenlet_gevent.coverage" NAME="10_使用greenlet,gevent完成多任务 Coverage Results" MODIFIED="1550215219193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_多任务-协程" />
+    <SUITE FILE_PATH="coverage/Python_Basis$05_contuite.coverage" NAME="05_contuite关键字 Coverage Results" MODIFIED="1548577657234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_循环" />
+    <SUITE FILE_PATH="coverage/Python_Basis$01_.coverage" NAME="01_装饰器的定义 Coverage Results" MODIFIED="1551408563770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/29_装饰器" />
+    <SUITE FILE_PATH="coverage/Python_Basis$13_sql.coverage" NAME="13-防止sql注入 Coverage Results" MODIFIED="1551171807448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/25_mysql数据库" />
+    <SUITE FILE_PATH="coverage/Python_Basis$02_test.coverage" NAME="02_分隔线test Coverage Results" MODIFIED="1548642778166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_模块" />
+    <SUITE FILE_PATH="coverage/Python_Basis$05_.coverage" NAME="05_对不定长参数，有返回值的函数装饰 Coverage Results" MODIFIED="1551409639688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/29_装饰器" />
+    <SUITE FILE_PATH="coverage/Python_Basis$06__fibonacci.coverage" NAME="06_使用生成器-完成fibonacci数列 Coverage Results" MODIFIED="1550212431364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_多任务-协程" />
+    <SUITE FILE_PATH="coverage/Python_Basis$08_send.coverage" NAME="08_生成器send Coverage Results" MODIFIED="1550213885670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_多任务-协程" />
+    <SUITE FILE_PATH="coverage/Python_Basis$server.coverage" NAME="server Coverage Results" MODIFIED="1550234917891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17_案例：聊天室" />
+    <SUITE FILE_PATH="coverage/Python_Basis$02_tcp_client_.coverage" NAME="02_tcp_client-多进程聊天室 Coverage Results" MODIFIED="1550631295099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17_案例：聊天室" />
+    <SUITE FILE_PATH="coverage/Python_Basis$01_socket.coverage" NAME="01_socket Coverage Results" MODIFIED="1549959795057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_网络编程" />
+    <SUITE FILE_PATH="coverage/Python_Basis$09_.coverage" NAME="09_带有参数的装饰器 Coverage Results" MODIFIED="1551426292310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/29_装饰器" />
+    <SUITE FILE_PATH="coverage/Python_Basis$02_.coverage" NAME="02_闭包修改数据 Coverage Results" MODIFIED="1551337704680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/28_闭包" />
+    <SUITE FILE_PATH="coverage/Python_Basis$05_tcp.coverage" NAME="05_tcp客户端 Coverage Results" MODIFIED="1550046923499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_网络编程" />
+    <SUITE FILE_PATH="coverage/Python_Basis$07__client.coverage" NAME="07_案例：文件下载_client Coverage Results" MODIFIED="1550108347259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_网络编程" />
+    <SUITE FILE_PATH="coverage/Python_Basis$06_tcp.coverage" NAME="06_tcp服务器 Coverage Results" MODIFIED="1550320935959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_网络编程" />
+    <SUITE FILE_PATH="coverage/Python_Basis$02_property.coverage" NAME="02_类属性创建property属性 Coverage Results" MODIFIED="1550973730519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/23_property属性" />
+    <SUITE FILE_PATH="coverage/Python_Basis$01_while.coverage" NAME="01_while Coverage Results" MODIFIED="1548576859326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_循环" />
+    <SUITE FILE_PATH="coverage/Python_Basis$web_server.coverage" NAME="web_server Coverage Results" MODIFIED="1551268324909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/26_mini-web" />
+    <SUITE FILE_PATH="coverage/Python_Basis$06_.coverage" NAME="06_多个装饰器装饰函数 Coverage Results" MODIFIED="1551421887648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/29_装饰器" />
+    <SUITE FILE_PATH="coverage/Python_Basis$12_gevent_monkey.coverage" NAME="12_（常用）使用gevent完成多任务-monkey Coverage Results" MODIFIED="1550216458726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_多任务-协程" />
+    <SUITE FILE_PATH="coverage/Python_Basis$01_web.coverage" NAME="01_web服务器 Coverage Results" MODIFIED="1550475765391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/19_web服务器" />
+    <SUITE FILE_PATH="coverage/Python_Basis$03_udp.coverage" NAME="03_udp接受数据 Coverage Results" MODIFIED="1549962135188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_网络编程" />
+    <SUITE FILE_PATH="coverage/Python_Basis$03_web.coverage" NAME="03_使用多线程完成web服务器 Coverage Results" MODIFIED="1550641953016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/19_web服务器" />
+    <SUITE FILE_PATH="coverage/Python_Basis$01___demo.coverage" NAME="01_多任务_线程_demo Coverage Results" MODIFIED="1550111828818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_多任务-线程" />
+    <SUITE FILE_PATH="coverage/Python_Basis$14_JD.coverage" NAME="14-JD作业 Coverage Results" MODIFIED="1551187771022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/25_mysql数据库" />
+    <SUITE FILE_PATH="coverage/Python_Basis$05___web.coverage" NAME="05_单进程-单线程-非阻塞web服务器 Coverage Results" MODIFIED="1550491544645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/19_web服务器" />
+    <SUITE FILE_PATH="coverage/Python_Basis$01_property.coverage" NAME="01_property属性定义 Coverage Results" MODIFIED="1550973226784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/23_property属性" />
+    <SUITE FILE_PATH="coverage/Python_Basis$01_tcp_server_.coverage" NAME="01_tcp_server-多线程聊天室 Coverage Results" MODIFIED="1550323446457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17_案例：聊天室" />
+    <SUITE FILE_PATH="coverage/Python_Basis$02_100.coverage" NAME="02_100和 Coverage Results" MODIFIED="1548577144076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_循环" />
+    <SUITE FILE_PATH="coverage/Python_Basis$web_server__1_.coverage" NAME="web_server (1) Coverage Results" MODIFIED="1551269938011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/27_new_wsgi_webserver" />
+    <SUITE FILE_PATH="coverage/Python_Basis$03__args.coverage" NAME="03_多线程共享全局变量-args变量 Coverage Results" MODIFIED="1550231672829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_多任务-线程" />
+    <SUITE FILE_PATH="coverage/Python_Basis$14_.coverage" NAME="14-作业 Coverage Results" MODIFIED="1551180624889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/25_mysql数据库" />
+    <SUITE FILE_PATH="coverage/Python_Basis$11_gevent.coverage" NAME="11_（常用）使用gevent完成多任务 Coverage Results" MODIFIED="1550215926390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_多任务-协程" />
+    <SUITE FILE_PATH="coverage/Python_Basis$03____str___.coverage" NAME="03_---str--- Coverage Results" MODIFIED="1550732883142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_面向对象" />
+    <SUITE FILE_PATH="coverage/Python_Basis$02_queue.coverage" NAME="02_多进程使用queue完成通信 Coverage Results" MODIFIED="1550130921654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_多任务—进程" />
+    <SUITE FILE_PATH="coverage/Python_Basis$02___del__.coverage" NAME="02_--del-- Coverage Results" MODIFIED="1551169581240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_面向对象" />
+    <SUITE FILE_PATH="coverage/Python_Basis$06_rasie.coverage" NAME="06_抛出rasie异常 Coverage Results" MODIFIED="1549874974549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_异常" />
+    <SUITE FILE_PATH="coverage/Python_Basis$03_.coverage" NAME="03_对有参数，没有返回值的函数装饰 Coverage Results" MODIFIED="1551408778716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/29_装饰器" />
+    <SUITE FILE_PATH="coverage/Python_Basis$06____web.coverage" NAME="06_单进程-单线程-非阻塞-长连接web服务器 Coverage Results" MODIFIED="1550642965616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/19_web服务器" />
+    <SUITE FILE_PATH="coverage/Python_Basis$card_admin.coverage" NAME="card_admin Coverage Results" MODIFIED="1548664073915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_名片管理系统---------" />
+    <SUITE FILE_PATH="coverage/Python_Basis$163.coverage" NAME="案例：匹配163邮箱地址 Coverage Results" MODIFIED="1550390236672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18_正则表达式" />
+    <SUITE FILE_PATH="coverage/Python_Basis$13_.coverage" NAME="13_案例：图片下载器 Coverage Results" MODIFIED="1550217505906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_多任务-协程" />
+    <SUITE FILE_PATH="coverage/Python_Basis$07_.coverage" NAME="07_应用：多个装饰器装饰用一个函数 Coverage Results" MODIFIED="1551423289400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/29_装饰器" />
+    <SUITE FILE_PATH="coverage/Python_Basis$05_udp.coverage" NAME="05_案例：多线程udp聊天器 Coverage Results" MODIFIED="1550219963613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_多任务-线程" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/29_装饰器/01_装饰器的定义.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/19_web服务器/07_epoll版服务器.py" />
+        <option value="$PROJECT_DIR$/20_深拷贝和浅拷贝/02_浅拷贝.py" />
+        <option value="$PROJECT_DIR$/20_深拷贝和浅拷贝/01_深拷贝.py" />
+        <option value="$PROJECT_DIR$/21_私有化/01_私有定义.py" />
+        <option value="$PROJECT_DIR$/09_面向对象/02_--del--.py" />
+        <option value="$PROJECT_DIR$/22_类对象，实例对象，类方法，实例方法/01_类属性，实例对象.py" />
+        <option value="$PROJECT_DIR$/22_类对象，实例对象，类方法，实例方法/02_类方法，实例方法，静态方法.py" />
+        <option value="$PROJECT_DIR$/23_property属性/01_property属性定义.py" />
+        <option value="$PROJECT_DIR$/23_property属性/02_类属性创建property属性.py" />
+        <option value="$PROJECT_DIR$/23_property属性/03_property应用.py" />
+        <option value="$PROJECT_DIR$/24_私有属性和名字重整、魔法属性和方法、上下文管理器/01_修改，查看私有属性.py" />
+        <option value="$PROJECT_DIR$/24_私有属性和名字重整、魔法属性和方法、上下文管理器/02_魔法方法.py" />
+        <option value="$PROJECT_DIR$/24_私有属性和名字重整、魔法属性和方法、上下文管理器/03_with，上下文管理器.py" />
+        <option value="$PROJECT_DIR$/25_mysql数据库/mysql.sql" />
+        <option value="$PROJECT_DIR$/25_mysql数据库/查询.sql" />
+        <option value="$PROJECT_DIR$/25_mysql数据库/条件查询.sql" />
+        <option value="$PROJECT_DIR$/25_mysql数据库/04-排序.sql" />
+        <option value="$PROJECT_DIR$/25_mysql数据库/05-聚合函数.sql" />
+        <option value="$PROJECT_DIR$/25_mysql数据库/聚合函数.sql" />
+        <option value="$PROJECT_DIR$/25_mysql数据库/分页.sql" />
+        <option value="$PROJECT_DIR$/25_mysql数据库/链接查询.sql" />
+        <option value="$PROJECT_DIR$/25_mysql数据库/05-聚合函数,分组.sql" />
+        <option value="$PROJECT_DIR$/25_mysql数据库/01mysql.sql" />
+        <option value="$PROJECT_DIR$/25_mysql数据库/子关联.sql" />
+        <option value="$PROJECT_DIR$/25_mysql数据库/子查询.sql" />
+        <option value="$PROJECT_DIR$/25_mysql数据库/数据库的设计" />
+        <option value="$PROJECT_DIR$/25_mysql数据库/11-python交互mysql.py" />
+        <option value="$PROJECT_DIR$/25_mysql数据库/12-查询案例.py" />
+        <option value="$PROJECT_DIR$/25_mysql数据库/13-防止sql注入.py" />
+        <option value="$PROJECT_DIR$/25_mysql数据库/14-作业.py" />
+        <option value="$PROJECT_DIR$/25_mysql数据库/Login.py" />
+        <option value="$PROJECT_DIR$/25_mysql数据库/14-JD作业.py" />
+        <option value="$PROJECT_DIR$/25_mysql数据库/视图.sql" />
+        <option value="$PROJECT_DIR$/25_mysql数据库/事务.sql" />
+        <option value="$PROJECT_DIR$/19_web服务器/02_使用多进程完成web服务器.py" />
+        <option value="$PROJECT_DIR$/26_mini-web/web_server.py" />
+        <option value="$PROJECT_DIR$/26_mini-web/mini_frame.py" />
+        <option value="$PROJECT_DIR$/27_new_wsgi_webserver/mini_frame.py" />
+        <option value="$PROJECT_DIR$/27_new_wsgi_webserver/web_server.py" />
+        <option value="$PROJECT_DIR$/28_闭包/01_闭包定义.py" />
+        <option value="$PROJECT_DIR$/28_闭包/02_闭包修改数据.py" />
+        <option value="$PROJECT_DIR$/29_装饰器/01_装饰器的定义.py" />
+        <option value="$PROJECT_DIR$/29_装饰器/02_对没有参数，没有返回值的函数装饰.py" />
+        <option value="$PROJECT_DIR$/29_装饰器/03_对有参数，没有返回值的函数装饰.py" />
+        <option value="$PROJECT_DIR$/29_装饰器/04_对不定长参数，没有返回值的函数装饰.py" />
+        <option value="$PROJECT_DIR$/29_装饰器/05_对不定长参数，有返回值的函数装饰.py" />
+        <option value="$PROJECT_DIR$/29_装饰器/06_多个装饰器装饰函数.py" />
+        <option value="$PROJECT_DIR$/29_装饰器/07_应用：多个装饰器装饰用一个函数.py" />
+        <option value="$PROJECT_DIR$/29_装饰器/08_类装饰器装饰函数.py" />
+        <option value="$PROJECT_DIR$/29_装饰器/09_带有参数的装饰器.py" />
+        <option value="$PROJECT_DIR$/30_log日志功能/01_log定义.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="92" />
+    <option name="y" value="35" />
+    <option name="width" value="1709" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python_Basis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Basis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Basis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Basis" type="462c0819:PsiDirectoryNode" />
+              <item name="29_装饰器" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver&#10;mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$APPLICATION_CONFIG_DIR$/jdbc-drivers/MySQL Connector/J 8/8.0.13/mysql-connector-license.txt" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Python_Basis" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Python_Basis" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Code\Python_Basis" />
+      <recent name="G:\Code\Python_Basis\16_多任务—进程" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Code\Python_Basis\29_装饰器" />
+      <recent name="G:\Code\Python_Basis\26_mini-web\new_wsgi_webserver" />
+      <recent name="G:\Code\Python_Basis\26_mini-web\html" />
+      <recent name="G:\Code\Python_Basis\19_web服务器" />
+      <recent name="G:\Code\Python_Basis\16_多任务-协程" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.01_log定义">
+    <configuration name="01_log定义" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Basis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/30_log日志功能" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30_log日志功能/01_log定义.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06_多个装饰器装饰函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Basis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/29_装饰器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/29_装饰器/06_多个装饰器装饰函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="07_应用：多个装饰器装饰用一个函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Basis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/29_装饰器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/29_装饰器/07_应用：多个装饰器装饰用一个函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="08_类装饰器装饰函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Basis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/29_装饰器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/29_装饰器/08_类装饰器装饰函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="09_带有参数的装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Basis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/29_装饰器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/29_装饰器/09_带有参数的装饰器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.06_多个装饰器装饰函数" />
+      <item itemvalue="Python.07_应用：多个装饰器装饰用一个函数" />
+      <item itemvalue="Python.08_类装饰器装饰函数" />
+      <item itemvalue="Python.09_带有参数的装饰器" />
+      <item itemvalue="Python.01_log定义" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.01_log定义" />
+        <item itemvalue="Python.09_带有参数的装饰器" />
+        <item itemvalue="Python.08_类装饰器装饰函数" />
+        <item itemvalue="Python.07_应用：多个装饰器装饰用一个函数" />
+        <item itemvalue="Python.06_多个装饰器装饰函数" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cff3c13-0548-4846-bca0-6f21d4936dc6" name="Default Changelist" comment="" />
+      <created>1548576538773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548576538773</updated>
+      <workItem from="1548576543202" duration="2747000" />
+      <workItem from="1548641001961" duration="16545000" />
+      <workItem from="1548738795665" duration="1788000" />
+      <workItem from="1548917652285" duration="1082000" />
+      <workItem from="1548998382332" duration="2950000" />
+      <workItem from="1549083816259" duration="5820000" />
+      <workItem from="1549171151239" duration="249000" />
+      <workItem from="1549172012091" duration="2137000" />
+      <workItem from="1549871982711" duration="5122000" />
+      <workItem from="1549948112623" duration="8618000" />
+      <workItem from="1550039870081" duration="3087000" />
+      <workItem from="1550105391003" duration="16642000" />
+      <workItem from="1550206839239" duration="31197000" />
+      <workItem from="1550320505710" duration="2982000" />
+      <workItem from="1550380382339" duration="6731000" />
+      <workItem from="1550468004207" duration="9951000" />
+      <workItem from="1550629544695" duration="11006000" />
+      <workItem from="1550726694911" duration="3416000" />
+      <workItem from="1550970236835" duration="14026000" />
+      <workItem from="1551012738328" duration="2727000" />
+      <workItem from="1551075177541" duration="16569000" />
+      <workItem from="1551094507293" duration="2247000" />
+      <workItem from="1551167662962" duration="19013000" />
+      <workItem from="1551246473433" duration="9712000" />
+      <workItem from="1551331728686" duration="4394000" />
+      <workItem from="1551406938451" duration="3691000" />
+      <workItem from="1551421533528" duration="4667000" />
+      <workItem from="1551509486955" duration="3993000" />
+      <workItem from="1552117086049" duration="166000" />
+      <workItem from="1552297859245" duration="285000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="213560000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="74" y="28" width="1367" height="784" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.16475973" />
+      <window_info id="Structure" order="1" sideWeight="0.50214595" side_tool="true" weight="0.14023495" />
+      <window_info id="Favorites" order="2" sideWeight="0.5016892" side_tool="true" weight="0.19389439" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" weight="0.3286385" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="3" weight="0.60276073" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32637855" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5040359" side_tool="true" weight="0.18303572" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.3181818" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.3963068" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.2453125" />
+      <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32935917" />
+      <window_info anchor="bottom" id="DB Execution Console" order="14" weight="0.6893617" />
+      <window_info anchor="bottom" id="Run" order="15" sideWeight="0.49596414" weight="0.3369735" />
+      <window_info anchor="right" id="SciView" order="0" weight="0.32912457" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Database" order="4" weight="0.25589225" />
+      <window_info anchor="right" id="DB Browser" order="5" weight="0.32849503" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4983108" visible="true" weight="0.15503307" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5016892" side_tool="true" weight="0.19389439" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="1" weight="0.3286385" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="3" weight="0.51975685" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32680723" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50301987" side_tool="true" weight="0.34887007" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.3182461" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39817628" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.2453125" />
+      <window_info anchor="right" id="SciView" order="0" weight="0.3295129" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Database" order="4" weight="0.2576" />
+      <window_info anchor="right" id="Run" order="5" sideWeight="0.49698016" weight="0.4650992" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pymysql/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#1123#1133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a0754be1-534a-45d5-a95b-e71321b5642c/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6b18ff07-6498-47f7-8478-5a33d30eb07a/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/830e7793-4bbf-43f7-979f-03b4e1ca3b7e/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8039dee7-c9fe-450f-b736-f695f9a6dcd6/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c9988a90-6e4e-4f8c-b73f-4a6d61886855/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/273500a0-66b9-48fe-9588-152f3583658c/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3f30234e-8efd-433e-9f9d-046d79b3a222/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/65b41ccb-2f41-4d72-877c-3bc46bdf896b/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_面向对象/02_--del--.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="db://fd6110a6-7e8c-4721-8748-e1c585a1b220/consoles/Connection">
+      <provider selected="true" editor-type-id="0.CONSOLE">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25_mysql数据库/02-查询.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25_mysql数据库/13-防止sql注入.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25_mysql数据库/08-自关联.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25_mysql数据库/05-聚合函数,分组.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25_mysql数据库/11-python交互mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25_mysql数据库/Login.py" />
+    <entry file="file://$PROJECT_DIR$/25_mysql数据库/12-查询案例.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="37" column="34" lean-forward="true" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25_mysql数据库/06-分页.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25_mysql数据库/09-子查询.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25_mysql数据库/14-JD作业.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25_mysql数据库/07-链接查询.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25_mysql数据库/事务.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25_mysql数据库/视图.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_正则表达式/01_案例：匹配变量名是否有效.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19_web服务器/02_使用多进程完成web服务器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="17" column="74" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="17" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26_mini-web/html/404.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26_mini-web/html/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26_mini-web/html/lbx.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26_mini-web/html/lxk.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26_mini-web/html/sqq.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26_mini-web/html/wj.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26_mini-web/web_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="54" column="43" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27_new_wsgi_webserver/html/wj.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26_mini-web/mini_frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27_new_wsgi_webserver/web_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1060">
+          <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27_new_wsgi_webserver/mini_frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/29_装饰器/02_对没有参数，没有返回值的函数装饰.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/29_装饰器/03_对有参数，没有返回值的函数装饰.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/29_装饰器/04_对不定长参数，没有返回值的函数装饰.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/29_装饰器/05_对不定长参数，有返回值的函数装饰.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/29_装饰器/07_应用：多个装饰器装饰用一个函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/29_装饰器/08_类装饰器装饰函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/29_装饰器/06_多个装饰器装饰函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25_mysql数据库/01mysql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="56" column="27" lean-forward="true" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/29_装饰器/09_带有参数的装饰器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30_log日志功能/01_log定义.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30_log日志功能/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="79" selection-start-line="6" selection-start-column="79" selection-end-line="6" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28_闭包/02_闭包修改数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28_闭包/01_闭包定义.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/29_装饰器/01_装饰器的定义.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

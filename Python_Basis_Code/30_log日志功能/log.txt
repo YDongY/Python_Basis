@@ -1,0 +1,15 @@
+2019-03-02 14:57:43,841 - 01_log定义.py[line:9] - DEBUG: 这是 loggging debug message
+2019-03-02 14:57:43,841 - 01_log定义.py[line:10] - INFO: 这是 loggging info message
+2019-03-02 14:57:43,841 - 01_log定义.py[line:11] - WARNING: 这是 loggging a warning message
+2019-03-02 14:57:43,841 - 01_log定义.py[line:12] - ERROR: 这是 an loggging error message
+2019-03-02 14:57:43,841 - 01_log定义.py[line:13] - CRITICAL: 这是 loggging critical message
+2019-03-02 14:58:05,989 - 01_log定义.py[line:9] - DEBUG: 这是 loggging debug message
+2019-03-02 14:58:05,990 - 01_log定义.py[line:10] - INFO: 这是 loggging info message
+2019-03-02 14:58:05,990 - 01_log定义.py[line:11] - WARNING: 这是 loggging a warning message
+2019-03-02 14:58:05,990 - 01_log定义.py[line:12] - ERROR: 这是 an loggging error message
+2019-03-02 14:58:05,993 - 01_log定义.py[line:13] - CRITICAL: 这是 loggging critical message
+2019-03-02 14:58:06,933 - 01_log定义.py[line:9] - DEBUG: 这是 loggging debug message
+2019-03-02 14:58:06,933 - 01_log定义.py[line:10] - INFO: 这是 loggging info message
+2019-03-02 14:58:06,934 - 01_log定义.py[line:11] - WARNING: 这是 loggging a warning message
+2019-03-02 14:58:06,934 - 01_log定义.py[line:12] - ERROR: 这是 an loggging error message
+2019-03-02 14:58:06,934 - 01_log定义.py[line:13] - CRITICAL: 这是 loggging critical message
